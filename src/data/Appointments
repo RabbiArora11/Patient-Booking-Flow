@@ -1,0 +1,6 @@
+export const appointments = [
+    {id: 1,patient: "Micheal Jackson", patientID: 1, physician: "Gregory House", physicianID: 3, date: "May 15th", time: "9:00 AM", timeSlotID: 1, reason: "General Checkup", status: "approved", notes: ""},
+    {id: 2,patient: "Micheal Jackson", patientID: 1, physician: "Harry Potter", physicianID: 4, date: "May 17th", time: "11:00 AM", timeSlotID: 8, reason: "Prescription Refill", status: "approved", notes: ""},
+    {id: 3,patient: "Lebron James", patientID: 2, physician: "Harry Potter", physicianID: 4, date: "May 16th", time: "2:00 PM", timeSlotID: 6, reason: "Prescription Refill", status: "approved", notes: ""},
+    {id: 4,patient: "Lebron James", patientID: 2, physician: "Charlie Brown", physicianID: 5, date: "May 17th", time: "11:00 AM", timeSlotID: 8, reason: "Prescription Refill", status: "approved", notes: ""},
+]

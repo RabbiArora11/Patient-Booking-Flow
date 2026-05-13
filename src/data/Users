@@ -1,0 +1,8 @@
+export const users =  [
+  {id: 1, name: "Micheal Jackson", email: "micheal.jackson@test.com", userType: "patient"},
+  {id: 2, name: "LeBron James", email: "lebron.james@test.com", userType: "patient"},
+  {id: 3, name: "Gregory House", email: "gregory.house@test.com", userType: "physician"},
+  {id: 4, name: "Harry Potter", email: "harry.potter@test.com", userType: "physician"},
+  {id: 5, name: "Charlie Brown", email: "charlie.brown@test.com", userType: "physician"},
+  {id: 6, name: "David Attenborough", email: "david.attenborough@test.com", userType: "physician"},
+]
