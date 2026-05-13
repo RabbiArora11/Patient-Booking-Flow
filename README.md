@@ -33,6 +33,15 @@ Global Variables: I used React Context API to manage and manipulate data through
 Simplified Login: I separated Sign in for patients and physicians so there can be different forms/levels of verification added later on. I also had hard coded data consisting of all emails of all users that you'd select from a dropdown rather than type out yourself to simplify the process even more. There is also no password needed to sign in. 
 Overlapping Schedules: I implemented a system to not allow one physician to have multiple appointments booked at the same time.
 
+THINGS I WOULD IMPROVE IF I HAD MORE TIME:
+Backend: I would implement an actual backend database and API instead of relying on localStorage and hard coded data. 
+Sign-in and Authentication: I would finish implementing the sign-in features (remove the drop downs for emails and actually use passwords) and add authentication to verify users, and add more security/verification to sign into accounts. 
+Time slots: I would implement an actual calendar for the user to pick their appointment date and time. 
+Physician Schedules: I would also allow the physicians to make their own schedule and post their available time slots. 
+UI: Improve the overall UI of the website to make it look more appealing and polished 
+Testing: develop more unit tests to measure the functionality of current and future features. 
+Confirmation and verification: Add more steps to verify user inputs and confirm with them before things such as booking appointments and signing out. 
+Error handling: I would increase the overall error handling and form validation by reviewing more places where errors ccould occur and making sure they don't 
 
 
 
