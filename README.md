@@ -1,7 +1,7 @@
 HOW TO RUN:
 Step 1. Clone the repository by entering the command "git clone https://github.com/RabbiArora11/Patient-Booking-Flow.git" in the terminal.
 
-Step 2. Navigate into the project by entering 'cd patient-booking' in the terminal.
+Step 2. Navigate into the project by entering 'cd patient-booking-flow' in the terminal.
 
 Step 3. Install dependencies by entering 'npm install' in the terminal.
 
